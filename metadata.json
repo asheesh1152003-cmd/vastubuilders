@@ -1,0 +1,5 @@
+{
+  "name": "VastuBuild - Construction & Vastu Experts",
+  "description": "Professional construction services specializing in high-quality, Vastu-compliant dream homes.",
+  "requestFramePermissions": ["geolocation"]
+}
